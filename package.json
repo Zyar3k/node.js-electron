@@ -6,7 +6,7 @@
   "author": "zyar3k",
   "license": "MIT",
   "scripts": {
-    "start": "electron ./app/index.html"
+    "start": "electron main.js"
   },
   "dependencies": {
     "electron": "5.0.6"
